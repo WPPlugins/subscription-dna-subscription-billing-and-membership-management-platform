@@ -1,0 +1,79 @@
+/* dna misc */
+
+.dna-small { font-size: 11px; }
+
+#dna-nav { font-size: 11px; margin-bottom: 8px; }
+#dna-heading { font-size: 16pt; font-weight: normal; letter-spacing: -1px; }
+#dna-heading-sub { font-size: 13pt; font-weight: normal; }
+
+/* registration */
+#dna-register .lbl { }
+#dna-register .lblErr {color: #ed2f60; }
+#dna-register select { width:175px; }
+#dna-register textarea { font-family: verdana; font-size: 11px; }
+#dna-register input.noErr    {}
+#dna-register input.err,select.err { }
+#dna-register td { text-align: left; font-size: 10pt; }
+#dna-register input { width: 170px; font-size: 10pt; }
+#dna-register .checkbox { width: 15px; font-size: 10pt; }
+#dna-register .dna-heading { font-size: 15pt; font-weight: bold; letter-spacing: -1px; }
+#dna-register .submit { padding-left: 5px; padding-right: 5px; }
+#dna-register .check { font-size: 8px; font-weight: bold; text-transform: uppercase; padding-left: 5px; padding-right: 5px; width: 120px; }
+
+/* login + forgot password */
+#dna-login td { text-align: left; padding: 4px; font-size: 10pt; }
+#dna-login input { width: 170px; font-size: 10pt; }
+#dna-login .dna-heading { text-align: right; font-size: 15pt; font-weight: bold; letter-spacing: -1px; }
+#dna-login .submit { padding-left: 5px; padding-right: 5px; }
+#dna-login #failure { padding: 4px; margin-top: 5px; margin-bottom: 5px; text-align: center; border: 1px solid gray; background: #ffffff; color: #ed2f60; font-family: georgia,arial; font-size: 12pt; }
+
+/* edit profile */
+#dna-profile td { text-align: left; padding: 4px; font-size: 11pt; }
+#dna-profile input { font-size: 10pt; }
+#dna-profile .submit { padding-left: 5px; padding-right: 5px; }
+
+/* manage subscriptions + transactions + payment methods */
+#dna-subscriptions th { text-align: left; padding-left: 4px; padding-right: 4px; background-color: #cccccc; color: #000000; font-size: 11px; font-weight: bold; }
+#dna-subscriptions td { text-align: left; padding-left: 4px; padding-right: 4px; font-size: 11px; border-bottom: 1px solid gray; }
+#dna-subscriptions #card_id { font-size: 11px; }
+
+
+/* misc */
+
+/* temp styles
+
+form { margin: 0px; }
+.urgent {color: #ed2f60; }
+.required {color: #ed2f60; padding:0 0 0 2px }
+.errMsg { white-space:nowrap; color: #ed2f60; font-size: 10pt; font-family: arial; font-weight:regular; display:none }
+.how_referred_member { color: #666666; }
+.how_referred_other { color: #666666; }
+.success { color: #68c453; }
+
+.row-heading { color: #c92e0f }
+.lbl		{color: #232323}
+.lblErr		{color: maroon; font-weight: normal; }
+.urgent		{color:maroon}
+.required	{color:maroon; padding:0 0 0 2px }
+.errMsg		{ white-space:nowrap; color: maroon; font-size: 10pt; font-family: arial; font-weight:regular; display:none }
+
+.input, select { background-color: #ffffff; border: 1px #7f9db9 solid; }
+select { width:175px; }
+.checkbox {
+	background-color: white;
+	border: 0px none;
+}
+textarea { font-family: verdana; font-size: 11px; }
+
+.product {color: #666666; font-size: 11px; font-weight: normal;}
+.product_table {background-color:#ffffff; font-size: 11px; font-weight: bold;}
+.how_referred_member { color: #666666; }
+.how_referred_other { color: #666666; }
+
+input.noErr	{}
+input.err,select.err { border: 1px #7f9db9 solid; }
+
+#submit { padding: 5px; font-size: 14pt; letter-spacing: -1px; color: white; background-color: #c92e0f; font-weight: bold; }
+.sp { font-size: 10px; color: #666666; }
+
+*/

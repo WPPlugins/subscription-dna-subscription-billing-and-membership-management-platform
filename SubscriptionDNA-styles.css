@@ -1,0 +1,48 @@
+=== Subscription DNA ===
+Website: http://www.SubscriptionDNA.com/
+Plugin URL: http://www.SubscriptionDNA.com/wordpress/
+Tags: subscriptions, membership, billing, payments, authentication
+Tested with: v2.9
+
+Subscription DNA is an enterprise subscription billing and membership management platform.
+
+== Description ==
+This wordpress plugin quickly ties in the basic subscriber functionality needed to run a membership site.
+An account with Subscription DNA provides the administrative portal to 
+
+Plugin Features Include:
+
+User:
+* Page Authentication
+* Subscription Registration
+* Account Login
+* Forgot My Password
+* Update My Profile
+* Change My Password
+* Manage My Subscriptions
+* View My Transactions
+
+Admin:
+* Settings
+  > Setup default member pages 
+  > Uncheck boxes you prefer to supress in the member's navigation
+  > Check boxes that you need to run through your SSL certificate 
+
+
+== Installation ==
+
+There a couple of ways to install Subscription DNA plugin for WordPress.
+
+First up, you can download it directly from the WordPress.org plugins directory, and install it by following these steps:
+
+1. Upload the whole Subscription DNA admin directory to the `/wp-content/plugins/` directory
+2. Activate the plugin through the 'Plugins' menu in WordPress
+
+Or, you can install it by creating the directory from the Admin section of your WordPress blog by following these steps:
+
+1. Under the 'Plugins' menu in WordPress select 'Add New'
+2. Enter 'Subscription DNA' into the search box
+3. Choose the 'install' option on the right hand side of the listing
+
+
+
